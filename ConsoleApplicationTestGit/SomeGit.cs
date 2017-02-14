@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplicationTestGit
 {
-    class Program
+    class SomeGit
     {
-        static void Main(string[] args)
-        {
-            var g = new SomeGit();
-        }
     }
 }
